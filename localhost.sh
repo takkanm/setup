@@ -54,6 +54,7 @@ HOMEBREW_CASK_OPTS="--appdir=/Applications" brew cask install alfred2
 HOMEBREW_CASK_OPTS="--appdir=/Applications" brew cask install contexts
 HOMEBREW_CASK_OPTS="--appdir=/Applications" brew cask install remember-the-milk
 HOMEBREW_CASK_OPTS="--appdir=/Applications" brew cask install openoffice
+HOMEBREW_CASK_OPTS="--appdir=/Applications" brew cask install karabiner-elements
 
 brew tap hrysd/caskse
 HOMEBREW_CASK_OPTS="--appdir=/Applications" brew cask install idobata-electron
