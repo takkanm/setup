@@ -4,7 +4,7 @@ ln -s ~/Dropbox/dotfiles/.gemrc ~/.gemrc
 ln -s ~/Dropbox/dotfiles/.gitconfig ~/.gitconfig
 ln -s ~/Dropbox/dotfiles/.irbrc ~/.irbrc
 ln -s ~/Dropbox/dotfiles/.screenrc ~/.screenrc
-ln -s ~/Dropbox/dotfiles/.ssh ~/.ssh
+ln -s ~/Dropbox/key/* ~/.ssh
 ln -s ~/Dropbox/dotfiles/.tmux.conf ~/.tmux.conf
 ln -s ~/Dropbox/dotfiles/.vim ~/.vim
 ln -s ~/Dropbox/dotfiles/.vimrc ~/.vimrc
